@@ -1,5 +1,4 @@
-### Enhance App - AI Image Enhancer (Remini Lite)
-
+### Enhance App - AI Image Enhancer
 Enhance is a Flutter-based mobile application that uses AI-powered image enhancement techniques to improve photo quality, sharpness, and clarity. Inspired by the popular Remini app, Enhance offers a lightweight and fast experience with a clean UI.
 
 #### Features:
@@ -12,9 +11,3 @@ Enhance is a Flutter-based mobile application that uses AI-powered image enhance
 
 #### Built With:
 - Flutter (Dart)
-- Codemagic for CI/CD
-- Compatible with Android (iOS optional)
-
----
-
-> Note: This is a demo/remake app inspired by Remini. It does not use Remini’s proprietary AI models.
